@@ -13,5 +13,6 @@ public class EmpController {
 		
 		return new EmpModel(101, "Teddu", 100000.0);
 	}
+//	public
 	
 }
